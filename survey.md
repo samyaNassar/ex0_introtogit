@@ -1,4 +1,4 @@
-Favorite color: blue
+Favorite color: green
 Favorite food: pizza
 Favorite musician/band: taylor swift
 Favorite movie: avengers
